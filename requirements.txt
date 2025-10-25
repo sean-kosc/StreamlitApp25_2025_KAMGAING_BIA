@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+pyarrow
+plotly
+altair
+geopandas
+folium
+pydeck
+requests

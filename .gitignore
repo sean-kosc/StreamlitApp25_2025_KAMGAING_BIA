@@ -1,0 +1,19 @@
+# Ignore demo video and archive
+demo_video.mkv
+StreamlitApp25_2025_KAMGAING_BIA.zip
+
+# Ignore cache and temp files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments (if any)
+.venv/
+venv/
+env/
+
+# Ignore system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
